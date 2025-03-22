@@ -1,4 +1,4 @@
-Canonical name,Expected,Levenstein,,all-MiniLM-L6-v2,,waynedsouza/only_names,,
+Name,Expected,Levenstein,,all-MiniLM-L6-v2,,waynedsouza/only_names,,
 Christina,Christina,Christina,1,Christina,1.00,Christina,1.00,
 Christa,Christina,Christina,0.88,Christina,0.35,Christina,0.99,
 Chrissy,Christina,Christina,0.62,Katherine,0.49,Christina,0.98,
